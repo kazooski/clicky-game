@@ -1,0 +1,16 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
