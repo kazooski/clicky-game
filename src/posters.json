@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/BangDream.jpg",
+      "clicked": 0,
+      "name": "anime 1"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/CatRoommate.jpg",
+      "clicked": 0,
+      "name": "anime 2"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/FoodWars5.jpg",
+      "clicked": 0,
+      "name": "anime 3"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/OnePiece.jpg",
+      "clicked": 0,
+      "name": "anime 4"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/FruitsBasket.jpg",
+      "clicked": 0,
+      "name": "anime 5"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/Jojos.jpg",
+      "clicked": 0,
+      "name": "anime 6"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/LoveIsWar.jpg",
+      "clicked": 0,
+      "name": "anime 7"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/MyHeroAcademia.jpg",
+      "clicked": 0,
+      "name": "anime 8"
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/MyTeenageSNAFU.jpg",
+      "clicked": 0,
+      "name": "anime 9"
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/NextLifeAsaVillainess.jpg",
+      "clicked": 0,
+      "name": "anime 10"
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/PS5.jpg",
+      "clicked": 0,
+      "name": "anime 11"
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/QueensChoice.jpg",
+      "clicked": 0,
+      "name": "anime 12"
+    }
+]

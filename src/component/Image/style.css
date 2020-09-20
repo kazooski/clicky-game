@@ -1,0 +1,36 @@
+/* .card {
+    height: 118.75px;
+    width: 80px;
+    margin: 8px 25px;
+    text-align: center;
+    border: none;
+    box-shadow: 2px 2px 2px #fab818;
+} */
+.card-chan {
+    height: 332.5px;
+    width: 224px;
+    margin: 8px 25px;
+    text-align: center;
+    border: none;
+    box-shadow: 2px 2px 2px #fab818;
+    position: relative;
+    float: left;
+}
+
+/* .card-chan {
+    height: 237.5px;
+    border-radius: 1px;
+    width: 160 px;
+    position: relative;
+} */
+
+.card-chan > .image-chan {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+img {
+    width: 100%;
+}
